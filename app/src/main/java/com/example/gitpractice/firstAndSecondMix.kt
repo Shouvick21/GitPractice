@@ -11,5 +11,6 @@ fun MixedCode(){
         Text(
             text = "first person 1"
         )
+        Text(text = "Second Person 1")
     }
 }
