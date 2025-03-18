@@ -19,5 +19,7 @@ fun MixedCode(){
         Text(text = "first person 3")
 
         Text(text = "person2 branch text 1")
+
+        Text(text = "person1 branch text 1")
     }
 }
