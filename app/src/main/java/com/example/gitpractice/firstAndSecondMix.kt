@@ -44,5 +44,7 @@ fun MixedCode(){
 
         Text(text = "person1 branch text 20")
 
+        Text(text = "person2 branch text 20")
+
     }
 }
